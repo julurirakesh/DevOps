@@ -1,0 +1,5 @@
+Task :
+1. Install AWS CLI package
+2. create security credentials 
+3. Authenticate your AWS using your terminal or putty, mobaxterm
+4. Make a call with AWS like s3 bucket or any 
